@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\controlEnemy.cs">
+    <Files>
+      <File FileName="Assets\control.cs" Line="26" Column="3" />
+      <File FileName="Assets\ataqueEscova.cs" Line="8" Column="34" />
+      <File FileName="Assets\controlEnemy.cs" Line="28" Column="2" />
+      <File FileName="Assets\activate.cs" Line="14" Column="110" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

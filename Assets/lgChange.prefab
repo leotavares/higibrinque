@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: lgChange
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 165.259247, y: 106.545792, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2d470bee2ef86d40913a3590880de96, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PanelMain: {fileID: 0}
+  PanelPlay: {fileID: 0}
+  PanelDemo: {fileID: 0}
+  PanelSobre: {fileID: 0}
+  ballen: {fileID: 21300000, guid: 4d87f03872f472d4da425e123e7cf434, type: 3}
+  ballpt: {fileID: 21300000, guid: c0d4a1f91e0d5e64b909e1480f9dee94, type: 3}
+  playen: {fileID: 21300000, guid: 42950eb9404c31047a6894929b5997e5, type: 3}
+  playpt: {fileID: 21300000, guid: 486624a05d0add6458fb462150152622, type: 3}
+  demoen: {fileID: 21300000, guid: 734f7ffd7e2f22b46a243be7a25d49ea, type: 3}
+  demopt: {fileID: 21300000, guid: 17c549c980ba27a478252b54ac8a2a82, type: 3}
+  abouten: {fileID: 21300000, guid: bb6c2169d8ef9184ba8e0bd286a9edb2, type: 3}
+  aboutpt: {fileID: 21300000, guid: 3f16121102e2e734f98313f22253765f, type: 3}
+  namept: {fileID: 21300000, guid: 9979142026a03a6439e02f7c6d2a15fa, type: 3}
+  nameen: {fileID: 21300000, guid: e8e831f6d6bf9fa44ae27d7534dfb8ab, type: 3}
+  deleteen: {fileID: 21300000, guid: 06476537f61cd6d40b05d743b374e716, type: 3}
+  deletept: {fileID: 21300000, guid: 3cff2ad3a120ccb4eb66b4fdac68753f, type: 3}
+  yesen: {fileID: 21300000, guid: 095dfcee571940a4ab0b312d5b90eb39, type: 3}
+  yespt: {fileID: 21300000, guid: 48cb188bc450bf64abd54b452e2b03b2, type: 3}
+  noen: {fileID: 21300000, guid: 86ddfa847e9885e4b861fc271a0063ac, type: 3}
+  nopt: {fileID: 21300000, guid: 73ea31c4190908049a7347dea5f7a381, type: 3}
+  asken: {fileID: 21300000, guid: 559451c8de2d46749ade3ca8f3f00c96, type: 3}
+  askpt: {fileID: 21300000, guid: c74c2ec09fe229d47aafe253f58b9d66, type: 3}
+  sobreen: {fileID: 21300000, guid: 1849c6906d160964f95c69ae15d23925, type: 3}
+  sobrept: {fileID: 21300000, guid: 7e05e41669c5fbf4abf2e84df6cca3ad, type: 3}
+  resuen: {fileID: 21300000, guid: e9385f11d448cc54c95acf219fad1045, type: 3}
+  resupt: {fileID: 21300000, guid: 73155fe276ebba04187c86f639763356, type: 3}
+  resten: {fileID: 21300000, guid: 541714a6b37bac842bc325032c10d903, type: 3}
+  restpt: {fileID: 21300000, guid: df52b9af6fffd334cbe3061e7df60a7b, type: 3}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

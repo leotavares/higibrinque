@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\labteca\labteca\Assets\Scripts\PlayerMoviment\FPSInputController.cs">
+    <Files>
+      <File FileName="..\labteca\labteca\Assets\Scripts\Scenario\InteractObjectBase.cs" Line="9" Column="2" />
+      <File FileName="..\labteca\labteca\Assets\Scripts\Scenario\DoorBehaviour.cs" Line="7" Column="30" />
+      <File FileName="..\labteca\labteca\Assets\Scripts\PlayerMoviment\FPSInputController.cs" Line="67" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
